@@ -16,6 +16,8 @@ After watching that presentation, the goal here was not to recreate that work di
 - subsystem-driven management
 - instanced rendering with `UHierarchicalInstancedStaticMeshComponent`
 
+<img width="980" height="515" alt="DemoThumbnail" src="https://github.com/user-attachments/assets/6857e7b9-9cb8-4b47-9f22-ee557f1360b8" />
+
 ## Project Goal
 
 The original objective was straightfoward:
