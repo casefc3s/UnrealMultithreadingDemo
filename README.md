@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a practical Unreal Engine multithreading sandbox built to explore how far gameplay-side movement work can be pushed off the game thread, where the real bottlenecks appear, and how different choices affect total frame cost.
+This project is a practical Unreal Engine multithreading sandbox built to explore pushing work off the game thread and analyzing how different approaches affected performance using Unreal Insights.
 
 The project was inspired by the "Road to 60 fps in *The Witcher 4* UE5 tech demo" talk shown at Unreal Fest:
 
